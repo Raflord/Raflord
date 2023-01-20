@@ -1,15 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rafael Wrobel
+Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Meu nome é Rafael Wrobel
 =====================================================================================================================================
 
 Web developer
 -------------
 
-I'm currently looking to improve my skills with React and NextJS by creating projects and looking for my first job as a front-end developer.
+Atualmente estou procurando melhorar minhas habilidades com React/Nextjs, criando projetos, em busca da minha primeira vaga como desenvolvedor.
 
-* 🌍  I'm based in Paraná, BR
-* 🖥️  See my portfolio at [rafaelwrobel.com](http://rafaelwrobel.com)
-* ✉️  You can contact me at [rafael\_wrobel@hotmail.com](mailto:rafael_wrobel@hotmail.com)
-* 🧠  I'm learning criar aplicativos full-stack usando T3 Stack
+* 🌍  Paraná, BR
+* 🖥️  Veja meu portifolio [rafaelwrobel.com](http://rafaelwrobel.com)
+* ✉️   Entre em contato [rafael\_wrobel@hotmail.com](mailto:rafael_wrobel@hotmail.com)
+* 🧠  Estou aprendendo a criar aplicativos full-stack usando T3 Stack
 
 ### Skills
 
