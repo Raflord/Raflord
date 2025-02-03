@@ -4,12 +4,8 @@ Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 Web developer
 -------------
 
-Atualmente estou procurando melhorar minhas habilidades com React/Nextjs, criando projetos, em busca da minha primeira vaga como desenvolvedor.
-
-* 🌍  Paraná, BR
-* 🖥️  Veja meu portifolio [rafaelwrobel.com](http://rafaelwrobel.com)
+* 📍   Brazil
 * ✉️   Entre em contato [rafael\_wrobel@hotmail.com](mailto:rafael_wrobel@hotmail.com)
-* 🧠  Estou aprendendo a criar aplicativos full-stack usando T3 Stack
 
 ### Skills
 
