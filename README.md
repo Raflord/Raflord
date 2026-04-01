@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rafael Wrobel</h1>
 <h3 align="center">Full Stack Developer with experience building end-to-end web applications. Proficient in modern frontend frameworks like React and robust backend ecosystems including Python (Django), .NET Core, and Go.</h3>
 <div> <a href="https://www.linkedin.com/in/rafael-wrobel" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/raflord" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rafael-wrobel" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="rafael-wrobel" height="30" width="40" /></a><a href="https://leetcode.com/u/raflord/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="https://leetcode.com/u/raflord/" height="30" width="40" /></a></p>
