@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafael Wrobel</h1>
 <h3 align="center">Full Stack Developer with experience building end-to-end web applications. Proficient in modern frontend frameworks like React and robust backend ecosystems including Python (Django), .NET Core, and Go.</h3>
-<div> <a href="https://www.linkedin.com/in/rafael-wrobel" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
