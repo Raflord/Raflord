@@ -27,15 +27,3 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raflord&theme=github_dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raflord&theme=github_dark" height="180em" />
 </div>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=raflord&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-    width="420"
-  />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raflord&layout=compact&theme=tokyonight&locale=pt-br"
-    width="390"
-  />
-</p>
