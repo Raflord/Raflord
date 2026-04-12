@@ -28,7 +28,7 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raflord&theme=github_dark" height="180em" />
 </div>
 
-<p align="left">
+<p align="center">
   <img
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=raflord&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
     width="420"
