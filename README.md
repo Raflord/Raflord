@@ -30,12 +30,12 @@
 
 <p align="left">
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=[SEU_USUARIO_GITHUB]&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=raflord&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
     width="420"
   />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=[SEU_USUARIO_GITHUB]&layout=compact&theme=tokyonight&locale=pt-br"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raflord&layout=compact&theme=tokyonight&locale=pt-br"
     width="390"
   />
 </p>
