@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafael Wrobel</h1>
-<h3 align="center">Full Stack Developer with experience building end-to-end web applications. Proficient in modern frontend frameworks like React and robust backend ecosystems including Python (Django), .NET Core, and Go.</h3>
+<h3 align="center">Full Stack Developer with experience building end-to-end web applications. Proficient in modern frontend frameworks like React and robust backend ecosystems including Python (Django), .NET Core, and Go</h3>
 
 ### 📊 Estatistics
 
