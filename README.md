@@ -3,22 +3,5 @@
 ### Full Stack Developer  
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center" >
-  <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/>
-</p>
+<p align="center" ><img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/><img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/><img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/><img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/><img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/><img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/><img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/><img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/><img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/><img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/><img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/><img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/><img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/><img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/><img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/><img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/></p>
 
