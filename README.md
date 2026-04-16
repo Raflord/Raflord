@@ -3,7 +3,7 @@
 ### Full Stack Developer
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>
